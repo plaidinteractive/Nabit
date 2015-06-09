@@ -20,7 +20,6 @@
 		52CA09D51B20D53700563057 /* ONPAC.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52CA09D11B20D53700563057 /* ONPAC.jpg */; };
 		52CA09D71B20E25800563057 /* DisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CA09D61B20E25800563057 /* DisplayViewController.swift */; };
 		52CA09D91B20E2C700563057 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CA09D81B20E2C700563057 /* Photo.swift */; };
-		52CA09DB1B21406400563057 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CA09DA1B21406400563057 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,7 +50,6 @@
 		52CA09D11B20D53700563057 /* ONPAC.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ONPAC.jpg; path = "../../Plaid Clients/ONPA/ONPAC.jpg"; sourceTree = "<group>"; };
 		52CA09D61B20E25800563057 /* DisplayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisplayViewController.swift; sourceTree = "<group>"; };
 		52CA09D81B20E2C700563057 /* Photo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
-		52CA09DA1B21406400563057 /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +94,6 @@
 			children = (
 				52CA09AA1B20D0ED00563057 /* AppDelegate.swift */,
 				52CA09AE1B20D0ED00563057 /* Main.storyboard */,
-				52CA09DA1B21406400563057 /* CameraViewController.swift */,
 				52CA09B11B20D0ED00563057 /* Images.xcassets */,
 				52CA09CC1B20D2D100563057 /* MyCollectionViewCell.swift */,
 				52CA09CA1B20D1B700563057 /* MyCollectionViewController.swift */,
@@ -245,7 +242,6 @@
 				52CA09CD1B20D2D100563057 /* MyCollectionViewCell.swift in Sources */,
 				52CA09D71B20E25800563057 /* DisplayViewController.swift in Sources */,
 				52CA09D91B20E2C700563057 /* Photo.swift in Sources */,
-				52CA09DB1B21406400563057 /* CameraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
